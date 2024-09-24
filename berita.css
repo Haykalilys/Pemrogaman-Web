@@ -1,0 +1,91 @@
+*, html {
+  margin: 0;
+  padding: 0;
+}
+/* .navbar {
+  background-color: #ffffff;
+  height: 80px;
+  margin: 20px;
+  border-radius: 100px;
+  padding: 0.5rem;
+} */
+
+.nav-link {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+font-size: 15px;
+  font-weight: 900;
+}
+
+.btn-signup {
+  color: white;
+  background-color: #303030;
+  font-weight: 600;
+  padding: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  text-decoration:  none;
+}
+
+.btn-signup:hover {
+  color: #303030;
+  background-color: none;
+  font-weight: 600;
+  border: 5px;
+  padding: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  text-decoration:  none;
+  animation-delay: .2ms;
+}
+
+.subs-section {
+  background: url(spatu1.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.testimonial {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  position: relative;
+  padding-bottom: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-heading {
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 40px;
+  text-transform: capitalize;
+  color: #303030;
+}
+
+.carousel-item {
+min-height: 500px;
+position: relative;
+color: #303030;
+}
+
+.carousel-caption
+{
+  position: absolute;
+  right: 15%;
+  left: 15%;
+  bottom: 50px;
+  padding: 50px  0;
+  color: #303030;
+}
+/* 
+
+  .hero-section {
+    background: url(sptu.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  } */
